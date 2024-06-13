@@ -2,7 +2,12 @@
 인공신경망 프로젝트_EMNIST를 이용한 CNN 최적화 및 분석
 # 2024 ANN Tool Installation Guide
 
-기준 gpu 스펙: GeForce RTX 3060
+기준 스펙
+CPU : AMD Ryzen 5950X
+GPU : GeForce RTX GTX1660 Super
+RAM : 128GB
+SSD : 500G
+
 ### Anaconda 설치
 1. Anaconda3 설치 전 다음 명령어를 실행
 ```
